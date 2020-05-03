@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/time-blocks/static/css/main.8eabcccf.chunk.css",
+    "main.js": "/time-blocks/static/js/main.6987dc3f.chunk.js",
+    "main.js.map": "/time-blocks/static/js/main.6987dc3f.chunk.js.map",
+    "runtime-main.js": "/time-blocks/static/js/runtime-main.d673cdff.js",
+    "runtime-main.js.map": "/time-blocks/static/js/runtime-main.d673cdff.js.map",
+    "static/js/2.e6b18a1a.chunk.js": "/time-blocks/static/js/2.e6b18a1a.chunk.js",
+    "static/js/2.e6b18a1a.chunk.js.map": "/time-blocks/static/js/2.e6b18a1a.chunk.js.map",
+    "index.html": "/time-blocks/index.html",
+    "precache-manifest.3124a1b2c3599b6db27bd55f6ea4eab6.js": "/time-blocks/precache-manifest.3124a1b2c3599b6db27bd55f6ea4eab6.js",
+    "service-worker.js": "/time-blocks/service-worker.js",
+    "static/css/main.8eabcccf.chunk.css.map": "/time-blocks/static/css/main.8eabcccf.chunk.css.map",
+    "static/js/2.e6b18a1a.chunk.js.LICENSE.txt": "/time-blocks/static/js/2.e6b18a1a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/time-blocks/static/media/Segoe UI.0e7e9a9b.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d673cdff.js",
+    "static/js/2.e6b18a1a.chunk.js",
+    "static/css/main.8eabcccf.chunk.css",
+    "static/js/main.6987dc3f.chunk.js"
+  ]
+}
